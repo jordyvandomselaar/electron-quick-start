@@ -6,8 +6,7 @@
 
 ## Todo
 
-- [ ] Create React version
-      - [ ] Add Redux
-      - [ ] Add react-router
+### React version
+- [ ] Add redux
+- [ ] Add react-router
 
-      ​
