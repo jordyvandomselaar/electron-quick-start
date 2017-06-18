@@ -15,7 +15,6 @@ The app structure is as follows:
     - index.html
   - js
     - app.js
-    - main.js
 
 ## Todo
 
